@@ -1,6 +1,28 @@
 # Notes on organisations' responses to cyber incidents 
+  
+[Travelex](#travelex)  
+[Hydro](#hydro)  
+[Marriott](#marriott)  
+[British Airways](#british-airways)  
+[Singapore Health Services](#singapore-health-services)  
+[Dixons Carphone](#dixons-carphone)  
+[Equifax](#equifax)  
+[Mersk](#mersk)  
+[Bupa](#bupa)  
+[Life at Parliament View Limited](#life-at-parliament-view-limited)  
+[The Bible Society](#the-bible-society)  
+[Uber](#uber)  
+[Tescos bank](#tescos-bank)  
+[University of Greenwich](#university-of-greenwich)  
+[Yahoo](#yahoo)  
+[U.S. Office of Personnel Management](#us-office-of-personnel-management)  
+[Other RNS Notifiations](#other-rns-notifiations)  
+[Todo](#todo)  
 
-## Travelex (December 2019 - January 2019)
+
+## Travelex 
+
+December 2019 - January 2019
 
 ### Website 
 
@@ -40,7 +62,9 @@
 [Statement regarding Travelex IT issues](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/FIN/14369733.html)  
 6:14PM 2 January 2020  
 
-## Hydro (March 2019)
+## Hydro
+
+March 2019
 
 ### Website  
 [Cyber-attack on Hydro](https://www.hydro.com/en/media/on-the-agenda/cyber-attack/)
@@ -62,7 +86,9 @@
 
 [Other press statements relating to the cyber attack](https://www.hydro.com/en/media/news/?year=&category=8717)
 
-## Marriott (November 2018)
+## Marriott
+
+November 2018
 
 
 ### Regulator Response 
@@ -97,7 +123,9 @@
 [Form 8-K](https://sec.report/Document/0001193125-19-190941)  
 30 November 2018  
 
-## British Airways (July 2018)
+## British Airways
+
+July 2018
 
 ### Regulator Response
 
@@ -116,14 +144,18 @@
 [Theft of Customer Data at British Airways](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/IAG/13782123.html)  
 6:24PM 6 September 2018   
 
-## Singapore Health Services (June 2018)
+## Singapore Health Services
+
+June 2018
 
 ### Public Reports (Committee of Inquiry)  
 
 [Public report of the committee of inquiry into the cyber attack on Singapore Health Services Private Limited’s patient database on or around 27 June 2018](https://www.mci.gov.sg/coireport)  
 10 January 2019  
 
-## Dixons Carphone (June 2018)
+## Dixons Carphone
+
+June 2018
 
 ### Regulator Response 
 
@@ -154,7 +186,9 @@
 [Investigation Into Unauthorised Data Access](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/DC./13677607.html)   
 7:30AM 13 June 2018  
 
-## Equifax (September 2017)
+## Equifax
+
+September 2017
 
 ### Public Reports (House Oversight Comittee)
 [The Equifax Data Breach](https://republicans-oversight.house.gov/wp-content/uploads/2018/12/Equifax-Report.pdf)  
@@ -193,14 +227,18 @@ December 2018
 [Equifax Announces Cybersecurity Incident Involving Consumer Information](https://investor.equifax.com/news-and-events/news/2017/09-07-2017-213000628)  
 7 September 2017
 
-## Mersk (Not-Petya) (June 2017)
+## Mersk
+
+June 2017 (Not-Petya)
 
 ### News Articles 
 
 [The Untold Story of NotPetya, the Most Devastating Cyberattack in History - Wired](https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/)  
 22 August 2018  
 
-## Bupa (June 2017)
+## Bupa
+
+June 2017
 
 ### Regulator Response 
 
@@ -212,7 +250,9 @@ December 2018
 [Bupa monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2259871/bupa-mpn-20180928.pdf)  
 26 September 2018
 
-## Life at Parliament View Limited (February 2017)
+## Life at Parliament View Limited
+
+February 2017
 
 ### Regulator Response 
 
@@ -222,7 +262,9 @@ December 2018
 [Life at Parliament View Limited monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2615396/mpn-life-at-parliament-view-limited-20190717.pdf)  
 17 July 2019 
 
-## The Bible Society (November - December 2016) 
+## The Bible Society
+
+November - December 2016
 
 ### Regulator Response 
 
@@ -232,7 +274,9 @@ December 2018
 [The Bible Society monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2259142/bible-society-mpn-20180531.pdf)  
 31 May 2018 
 
-## Uber (November 2016) 
+## Uber
+
+November 2016 
 
 ### Regulator Response 
 
@@ -242,13 +286,17 @@ December 2018
 [Uber monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2553890/uber-monetary-penalty-notice-26-november-2018.pdf)  
 26 November 2018 
 
-## Tescos bank (November 2016)
+## Tescos bank
+
+November 2016
 
 ### Regulator Response 
 [FCA Final Notice](https://www.fca.org.uk/publication/final-notices/tesco-personal-finance-plc-2018.pdf)  
 1 October 2018  
 
-## University of Greenwich (January 2016)
+## University of Greenwich
+
+January 2016
 
 ### Regulator Response 
 [The University of Greenwich fined £120,000 by Information Commissioner for “serious” security breach](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2018/05/the-university-of-greenwich-fined-120-000-by-information-commissioner-for-serious-security-breach/)  
@@ -257,7 +305,9 @@ December 2018
 [University of Greenwich monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2258884/university-of-greenwich-mpn-20180516.pdf)  
 16 May 2018
 
-## Yahoo (November - December 2014)
+## Yahoo
+
+November - December 2014
 
 ### Regulator Response
 [Yahoo! fined £250,000 after systemic failures put customer data at risk](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2018/06/yahoo-fined-250-000-after-systemic-failures-put-customer-data-at-risk/)    
@@ -267,7 +317,9 @@ December 2018
 21 May 2018  
 
 
-## U.S. Office of Personnel Management (OPM) (March 2014)
+## U.S. Office of Personnel Management
+
+March 2014
 
 ### Public Reports (House Oversight Comittee)
 [The OPM Data Breach How the Government Jeopardized Our National Security for More than a Generation](https://oversight.house.gov/wp-content/uploads/2016/09/The-OPM-Data-Breach-How-the-Government-Jeopardized-Our-National-Security-for-More-than-a-Generation.pdf) [Web Archive](https://web.archive.org/web/20180306115400/https://oversight.house.gov/wp-content/uploads/2016/09/The-OPM-Data-Breach-How-the-Government-Jeopardized-Our-National-Security-for-More-than-a-Generation.pdf)  
@@ -291,6 +343,6 @@ December 2018
 - [x] RNS Notifications
 - [x] ICO MPNs
 - [ ] Make use of dates consistent 
-- [ ] Add table of contents
+- [x] Add table of contents
 
 This list is by no means completed. There may be errors, please let me know. I'll be working on updating this over the first few months of 2020. Contributions welcome. 
