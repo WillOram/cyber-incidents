@@ -175,19 +175,25 @@ December 2018
 [Bupa monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2259871/bupa-mpn-20180928.pdf)  
 26 September 2018
 
-## The Bible Society  
+## Life at Parliament View Limited (February 2017)
+
+### Regulator Response 
+[Life at Parliament View Limited monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2615396/mpn-life-at-parliament-view-limited-20190717.pdf)
+17 July 2019 
+
+## The Bible Society (November - December 2016) 
 
 ### Regulator Response 
 [The Bible Society monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2259142/bible-society-mpn-20180531.pdf)
 31 May 2018 
 
-## Uber 
+## Uber (November 2016) 
 
 ### Regulator Response 
 [Uber monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2553890/uber-monetary-penalty-notice-26-november-2018.pdf)
 26 November 2018 
 
-## Tescos bank
+## Tescos bank (November 2016)
 
 ### Regulator Response 
 [FCA Final Notice](https://www.fca.org.uk/publication/final-notices/tesco-personal-finance-plc-2018.pdf)  
@@ -196,23 +202,19 @@ December 2018
 ## University of Greenwich (January 2016)
 
 ### Regulator Response 
-[University of Greenwich Final Notice](https://ico.org.uk/media/action-weve-taken/mpns/2258884/university-of-greenwich-mpn-20180516.pdf)
-
-## Life at Parliament View Limited
-
-### Regulator Response 
-[Life at Parliament View Limited monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2615396/mpn-life-at-parliament-view-limited-20190717.pdf)
-17 July 2019 
-
-## U.S. Office of Personnel Management (OPM)  
-### Public Reports (House Oversight Comittee)
-[The OPM Data Breach How the Government Jeopardized Our National Security for More than a Generation](https://oversight.house.gov/wp-content/uploads/2016/09/The-OPM-Data-Breach-How-the-Government-Jeopardized-Our-National-Security-for-More-than-a-Generation.pdf) [Web Archive](https://web.archive.org/web/20180306115400/https://oversight.house.gov/wp-content/uploads/2016/09/The-OPM-Data-Breach-How-the-Government-Jeopardized-Our-National-Security-for-More-than-a-Generation.pdf)  
-7 September 2016  
+[University of Greenwich monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2258884/university-of-greenwich-mpn-20180516.pdf)
+16 May 2018
 
 ## Yahoo (November - December 2014)
 
 ### Regulator Response 
 https://ico.org.uk/media/action-weve-taken/mpns/2258898/yahoo-uk-services-ltd-mpn-20180521.pdf
+
+## U.S. Office of Personnel Management (OPM) (March 2014)
+
+### Public Reports (House Oversight Comittee)
+[The OPM Data Breach How the Government Jeopardized Our National Security for More than a Generation](https://oversight.house.gov/wp-content/uploads/2016/09/The-OPM-Data-Breach-How-the-Government-Jeopardized-Our-National-Security-for-More-than-a-Generation.pdf) [Web Archive](https://web.archive.org/web/20180306115400/https://oversight.house.gov/wp-content/uploads/2016/09/The-OPM-Data-Breach-How-the-Government-Jeopardized-Our-National-Security-for-More-than-a-Generation.pdf)  
+7 September 2016  
 
 ## Other RNS Notifiations 
 
@@ -227,5 +229,9 @@ https://ico.org.uk/media/action-weve-taken/mpns/2258898/yahoo-uk-services-ltd-mp
 **Urban Exposure PLC   -  UEX**   
 [Urban Exposure plc: Information Security Breach](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/UEX/14182713.html)  
 7:00AM 9 August 2019  
+
+## Todo
+- [x] RNS Notifications
+- [x] ICO MPNs
 
 
