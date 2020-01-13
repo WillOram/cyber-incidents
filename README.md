@@ -64,6 +64,14 @@
 
 ## Marriott (November 2018)
 
+
+### Regulator Response 
+
+**ICO**
+
+[Statement: Intention to fine Marriott International, Inc more than £99 million under GDPR for data breach](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2019/07/statement-intention-to-fine-marriott-international-inc-more-than-99-million-under-gdpr-for-data-breach/)  
+9 July 2019  
+
 ### Website  
 
 [Marriott International Update on Starwood Reservation Database Security Incident](https://news.marriott.com/2019/07/marriott-international-update-on-starwood-reservation-database-security-incident/)  
@@ -82,13 +90,21 @@
 [Security Incident](https://twitter.com/marriottintl/status/1068460980621971456?lang=en)  
 30 November 2018  
 
-### SEC Notifiations  
+### SEC Notifiations
+
 **Marriott International, Inc. (NASDAQ: MAR)**  
 [Marriott Announces Starwood Guest Reservation Database Security Incident](https://www.sec.gov/Archives/edgar/data/1048286/000162828018014745/a2018ex99.htm)    
 [Form 8-K](https://sec.report/Document/0001193125-19-190941)  
 30 November 2018  
 
 ## British Airways (July 2018)
+
+### Regulator Response
+
+**ICO**
+
+[ICO: Intention to fine British Airways £183.39m under GDPR for data breach](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2019/07/ico-announces-intention-to-fine-british-airways/)  
+8 July 2019
 
 ### RNS Notifications 
 
@@ -103,16 +119,24 @@
 ## Singapore Health Services (June 2018)
 
 ### Public Reports (Committee of Inquiry)  
+
 [Public report of the committee of inquiry into the cyber attack on Singapore Health Services Private Limited’s patient database on or around 27 June 2018](https://www.mci.gov.sg/coireport)  
 10 January 2019  
 
 ## Dixons Carphone (June 2018)
 
 ### Regulator Response 
+
+**ICO**
+
+[National retailer fined half a million pounds for failing to secure information of at least 14 million people](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2020/01/nationwide-retailer-fined-half-a-million-pounds-for-failing-to-secure-information/)  
+9 January 2020
+
 [DSG Retail Ltd monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2616891/dsg-mpn-20200107.pdf)  
 9 January 2020  
 
 ### Website
+
 [Important message from dixons carphone](https://web.archive.org/web/20180830035750/https://www.carphonewarehouse.com/message.html)   
 31 July 2018  
 
@@ -137,6 +161,12 @@
 December 2018  
 
 ### Regulator Response 
+
+**ICO**
+
+[Credit reference agency Equifax fined for security breach](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2018/09/credit-reference-agency-equifax-fined-for-security-breach/)  
+20 September 2018  
+
 [Equifax Ltd monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2259808/equifax-ltd-mpn-20180919.pdf)  
 19 September 2018   
 
@@ -166,30 +196,49 @@ December 2018
 ## Mersk (Not-Petya) (June 2017)
 
 ### News Articles 
+
 [The Untold Story of NotPetya, the Most Devastating Cyberattack in History - Wired](https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/)  
 22 August 2018  
 
 ## Bupa (June 2017)
 
 ### Regulator Response 
+
+**ICO**
+
+[Bupa fined £175,000 for systemic data protection failures](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2018/09/bupa-fined-175-000-for-systemic-data-protection-failures/)
+28 September 2018
+
 [Bupa monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2259871/bupa-mpn-20180928.pdf)  
 26 September 2018
 
 ## Life at Parliament View Limited (February 2017)
 
 ### Regulator Response 
+
+[Estate agency fined £80,000 for failing to keep tenants’ data safe](https://ico.org.uk/action-weve-taken/enforcement/life-at-parliament-view-limited/)  
+19 July 2019  
+
 [Life at Parliament View Limited monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2615396/mpn-life-at-parliament-view-limited-20190717.pdf)  
 17 July 2019 
 
 ## The Bible Society (November - December 2016) 
 
 ### Regulator Response 
+
+[Bible Society fined £100,000 after security failings put supporters’ personal data at risk](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2018/06/bible-society-fined-after-security-failings/)  
+8 June 2018
+
 [The Bible Society monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2259142/bible-society-mpn-20180531.pdf)  
 31 May 2018 
 
 ## Uber (November 2016) 
 
 ### Regulator Response 
+
+[ICO fines Uber £385,000 over data protection failings](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2018/11/ico-fines-uber-385-000-over-data-protection-failings/) 
+27 November 2018
+
 [Uber monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2553890/uber-monetary-penalty-notice-26-november-2018.pdf)  
 26 November 2018 
 
