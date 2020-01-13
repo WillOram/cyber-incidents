@@ -178,19 +178,19 @@ December 2018
 ## Life at Parliament View Limited (February 2017)
 
 ### Regulator Response 
-[Life at Parliament View Limited monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2615396/mpn-life-at-parliament-view-limited-20190717.pdf)
+[Life at Parliament View Limited monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2615396/mpn-life-at-parliament-view-limited-20190717.pdf)  
 17 July 2019 
 
 ## The Bible Society (November - December 2016) 
 
 ### Regulator Response 
-[The Bible Society monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2259142/bible-society-mpn-20180531.pdf)
+[The Bible Society monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2259142/bible-society-mpn-20180531.pdf)  
 31 May 2018 
 
 ## Uber (November 2016) 
 
 ### Regulator Response 
-[Uber monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2553890/uber-monetary-penalty-notice-26-november-2018.pdf)
+[Uber monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2553890/uber-monetary-penalty-notice-26-november-2018.pdf)  
 26 November 2018 
 
 ## Tescos bank (November 2016)
@@ -202,13 +202,15 @@ December 2018
 ## University of Greenwich (January 2016)
 
 ### Regulator Response 
-[University of Greenwich monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2258884/university-of-greenwich-mpn-20180516.pdf)
+[University of Greenwich monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2258884/university-of-greenwich-mpn-20180516.pdf)  
 16 May 2018
 
 ## Yahoo (November - December 2014)
 
-### Regulator Response 
-https://ico.org.uk/media/action-weve-taken/mpns/2258898/yahoo-uk-services-ltd-mpn-20180521.pdf
+### Regulator Response
+https://ico.org.uk/media/action-weve-taken/mpns/2258898/yahoo-uk-services-ltd-mpn-20180521.pdf  
+21 May 2018  
+
 
 ## U.S. Office of Personnel Management (OPM) (March 2014)
 
@@ -233,5 +235,6 @@ https://ico.org.uk/media/action-weve-taken/mpns/2258898/yahoo-uk-services-ltd-mp
 ## Todo
 - [x] RNS Notifications
 - [x] ICO MPNs
+- [] Make use of dates consistent 
 
 
