@@ -251,13 +251,19 @@ December 2018
 ## University of Greenwich (January 2016)
 
 ### Regulator Response 
+[The University of Greenwich fined £120,000 by Information Commissioner for “serious” security breach](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2018/05/the-university-of-greenwich-fined-120-000-by-information-commissioner-for-serious-security-breach/)  
+21 May 2018
+
 [University of Greenwich monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2258884/university-of-greenwich-mpn-20180516.pdf)  
 16 May 2018
 
 ## Yahoo (November - December 2014)
 
 ### Regulator Response
-https://ico.org.uk/media/action-weve-taken/mpns/2258898/yahoo-uk-services-ltd-mpn-20180521.pdf  
+[Yahoo! fined £250,000 after systemic failures put customer data at risk](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2018/06/yahoo-fined-250-000-after-systemic-failures-put-customer-data-at-risk/)    
+12 June 2018  
+
+[Yahoo! UK Services Ltd monetary penalty notice](https://ico.org.uk/media/action-weve-taken/mpns/2258898/yahoo-uk-services-ltd-mpn-20180521.pdf)  
 21 May 2018  
 
 
