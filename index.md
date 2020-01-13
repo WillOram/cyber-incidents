@@ -8,7 +8,7 @@
 12 January 2020
 
 [Updated Travelex Statement on Cyber Incident](http://web.archive.org/web/20200108073009/https://www.travelex.com/)  
-8 January 2020  
+8 January 2020   
 
 [Planned Maintenance](https://web.archive.org/web/20200107064007/https://www.travelex.co.uk/)  
 6 January 2020  
