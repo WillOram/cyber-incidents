@@ -235,6 +235,6 @@ https://ico.org.uk/media/action-weve-taken/mpns/2258898/yahoo-uk-services-ltd-mp
 ## Todo
 - [x] RNS Notifications
 - [x] ICO MPNs
-- [] Make use of dates consistent 
+- [ ] Make use of dates consistent 
 
 
