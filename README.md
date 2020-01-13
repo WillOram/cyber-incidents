@@ -40,7 +40,7 @@
 [Statement regarding Travelex IT issues](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/FIN/14369733.html)  
 6:14PM 2 January 2020  
 
-## Hydro (March 2018)
+## Hydro (March 2019)
 
 ### Website  
 [Cyber-attack on Hydro](https://www.hydro.com/en/media/on-the-agenda/cyber-attack/)
