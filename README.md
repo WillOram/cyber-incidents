@@ -285,5 +285,6 @@ https://ico.org.uk/media/action-weve-taken/mpns/2258898/yahoo-uk-services-ltd-mp
 - [x] RNS Notifications
 - [x] ICO MPNs
 - [ ] Make use of dates consistent 
+- [ ] Add table of contents
 
-This list is by no means completed. There may be errors. I'll be working on updating this over the first few months of 2020.
+This list is by no means completed. There may be errors, please let me know. I'll be working on updating this over the first few months of 2020. Contributions welcome. 
