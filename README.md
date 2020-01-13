@@ -1,4 +1,4 @@
-# Notes on organisations' responses to cyber incidents 
+# Notes on how organisations have responded to cyber security incidents
 
 **2020** 
 
