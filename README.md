@@ -40,7 +40,13 @@ December 2019 - January 2019
 
 ### Website 
 
-[Travelex continues to make good progress with its technology recovery](http://www.travelex-corporate.com)  
+[CUSTOMER INFORMATION HUB](http://web.archive.org/web/20200117152939/https://www.travelex.com/customer-update/)  
+20 January 2020  
+
+[We're sorry but our online travel money service isn't available right now.](http://web.archive.org/web/20200120141014/https://www.travelex.co.uk/)  
+20 January 2020
+
+[Travelex continues to make good progress with its technology recovery](http://web.archive.org/web/20200113181553/http://www.travelex-corporate.com/)   
 12 January 2020
 
 [Updated Travelex Statement on Cyber Incident](http://web.archive.org/web/20200108073009/https://www.travelex.com/)  
