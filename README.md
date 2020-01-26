@@ -7,6 +7,7 @@
 **2019**  
 
 [Travelex](#travelex)  
+[Capital One](#capital-one)  
 [Hydro](#hydro) 
 
 **2018**  
@@ -92,6 +93,23 @@ December 2019 - January 2020
 **Finablr PLC   -  FIN**    
 [Statement regarding Travelex IT issues](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/FIN/14369733.html)  
 6:14PM 2 January 2020  
+
+## Capital One
+
+September 2019
+
+### Website  
+[Website Banner](http://web.archive.org/web/20190901035144/https://www.capitalone.com/)    
+
+[Information on the Capital One Cyber Incident](http://web.archive.org/web/20190730224315/https://www.capitalone.com/facts2019/)  
+29 July 2019
+
+[Holding page](http://web.archive.org/web/20190729223436/https://www.capitalone.com/facts2019/)  
+28 July 2019
+
+### SEC Notifiations
+[Capital One Announces Data Security Incident Perpetrator Arrested by Federal Law Enforcement](https://sec.report/Document/0000927628-19-000262/)  
+29 July 2019
 
 ## Hydro
 
