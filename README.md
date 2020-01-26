@@ -2,6 +2,8 @@
 
 **2020** 
 
+[Microsoft](#Microsoft)
+
 **2019**  
 
 [Travelex](#travelex)  
@@ -32,11 +34,20 @@
 **2014**
 
 [University of Greenwich](#university-of-greenwich)  
-[Yahoo](#yahoo)  
+[Yahoo](#yahoo) 
+
+## Microsoft
+
+January 2020
+
+### Blog 
+
+[Access Misconfiguration for Customer Support Database](https://msrc-blog.microsoft.com/2020/01/22/access-misconfiguration-for-customer-support-database/)  
+22 January 2020  
 
 ## Travelex 
 
-December 2019 - January 2019
+December 2019 - January 2020
 
 ### Website 
 
