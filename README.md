@@ -96,7 +96,7 @@ December 2019 - January 2020
 
 ## Capital One
 
-September 2019
+July 2019
 
 ### Website  
 [Website Banner](http://web.archive.org/web/20190901035144/https://www.capitalone.com/)    
