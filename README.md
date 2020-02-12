@@ -384,11 +384,11 @@ March 2014
 
 ## Other RNS Notifiations 
 
-**Tissue Regenix Group PLC   -  TRX **   
+**Tissue Regenix Group PLC   -  TRX**   
 [Resolution of Cyber Security Incident](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/TRX/14410017.html)  
 04 February 2020
 
-**Tissue Regenix Group PLC   -  TRX **   
+**Tissue Regenix Group PLC   -  TRX**   
 [Notice of cyber security incident](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/TRX/14400607.html)  
 28 January 2020
 
