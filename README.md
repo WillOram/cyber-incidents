@@ -87,6 +87,10 @@ December 2019 - January 2020
 ### RNS Notifications 
 
 **Finablr PLC   -  FIN**  
+[Statement regarding share price](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/FIN/14398054.html)  
+18:03 24 January 2020
+
+**Finablr PLC   -  FIN**  
 [Statement re Travelex update on cyber incident](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/FIN/14375242.html)  
 7:00AM 8 January 2020  
 
@@ -184,6 +188,10 @@ July 2018
 8 July 2019
 
 ### RNS Notifications 
+
+**International Cons Airlines Group   -  IAG**  
+[UPDATE ON BRITISH AIRWAYS CYBER ATTACK](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/IAG/13842943.html)   
+7:01AM 25 October 2018
 
 **International Cons Airlines Group   -  IAG**  
 [Theft of customer data at British Airways - Update](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/IAG/14139234.html)   
@@ -376,6 +384,14 @@ March 2014
 
 ## Other RNS Notifiations 
 
+**Tissue Regenix Group PLC   -  TRX **   
+[Resolution of Cyber Security Incident](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/TRX/14410017.html)  
+04 February 2020
+
+**Tissue Regenix Group PLC   -  TRX **   
+[Notice of cyber security incident](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/TRX/14400607.html)  
+28 January 2020
+
 **Fisher (James) & Sons plc   -  FSJ**   
 [Notice of cyber security incident](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/FSJ/14295259.html)  
 1:29PM 5 November 2019  
@@ -387,6 +403,10 @@ March 2014
 **Urban Exposure PLC   -  UEX**   
 [Urban Exposure plc: Information Security Breach](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/UEX/14182713.html)  
 7:00AM 9 August 2019  
+
+**Clarkson PLC   -  CKN**   
+[Notice of cyber security incident](https://www.londonstockexchange.com/exchange/news/market-news/market-news-detail/CKN/13447817.html)  
+29 November 2017
 
 ## Todo
 - [x] RNS Notifications
