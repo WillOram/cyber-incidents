@@ -12,6 +12,7 @@
 
 **2018**  
 
+[Cathay Pacific](#Cathay-Pacific)    
 [Marriott](#marriott)  
 [British Airways](#british-airways)  
 [Singapore Health Services](#singapore-health-services)  
@@ -139,10 +140,33 @@ March 2019
 
 [Other press statements relating to the cyber attack](https://www.hydro.com/en/media/news/?year=&category=8717)
 
+## Cathay Pacific
+
+### Regulator Response 
+
+**ICO**
+
+[Statement: International airline fined £500,000 for failing to secure its customers’ personal data](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2020/03/international-airline-fined-500-000-for-failing-to-secure-its-customers-personal-data/)  
+4 March 2020
+
+### Website  
+
+[Cathay Pacific announces data security event affecting passenger data](https://news.cathaypacific.com/cathay-pacific-announces-data-security-event-affecting-passenger-data-197986)  
+24 October 2018
+
+[Data security event](https://infosecurity.cathaypacific.com/en_HK.html)  
+24 October 2018  
+
+### Twitter
+[We have discovered unauthorised access to some of our passenger data](https://twitter.com/cathaypacific/status/1055117720444854273)  
+24 October 2018  
+
+[The official Twitter account of Cathay Pacific Data Security Event support.](https://twitter.com/CxInfosec)  
+24 October 2018  
+
 ## Marriott
 
 November 2018
-
 
 ### Regulator Response 
 
