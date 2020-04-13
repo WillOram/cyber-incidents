@@ -213,7 +213,7 @@ July 2018
 
 ### Website
 
-[Customer data theft](https://web.archive.org/web/20181202212445/https://www.britishairways.com/en-gb/information/incident/data-theft/latest-information). 
+[Customer data theft](https://web.archive.org/web/20181202212445/https://www.britishairways.com/en-gb/information/incident/data-theft/latest-information)  
 6 September 2018  
 
 ### RNS Notifications 
