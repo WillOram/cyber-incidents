@@ -211,6 +211,11 @@ July 2018
 [ICO: Intention to fine British Airways £183.39m under GDPR for data breach](https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2019/07/ico-announces-intention-to-fine-british-airways/)  
 8 July 2019
 
+### Website
+
+[Customer data theft](https://web.archive.org/web/20181202212445/https://www.britishairways.com/en-gb/information/incident/data-theft/latest-information). 
+6 September 2018  
+
 ### RNS Notifications 
 
 **International Cons Airlines Group   -  IAG**  
